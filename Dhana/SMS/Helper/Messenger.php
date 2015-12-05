@@ -5,9 +5,9 @@
   class Dhana_SMS_Helper_Messenger extends Mage_Core_Model_Abstract{
 
 
-    protected $user         ="laxmikanthhk@gmail.com:nidhipuja";
+    protected $user         ="add_your_user_name_pasword_here";
     protected $receipientno = '';
-    protected $senderID     ="TEST SMS";
+    protected $senderID     ="<<sender_id>>";
     protected $msgtxt       = '';
     protected $smstype		= "";
     protected $url			= "";
